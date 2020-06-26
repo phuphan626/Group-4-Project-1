@@ -1,2 +1,7 @@
 # Group-4-Project-1
-Kiera-Michael-Phu-Jose
+Group name: Covid Crushers 
+Group member:
++ Kiera Havior 
++ Michael Rucker
++ Phu Phan
++ Jose Valenzuela
