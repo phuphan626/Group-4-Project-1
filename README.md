@@ -26,5 +26,5 @@
 - Limitation:
   As we used the dataset that is from 06/29/2020, so the rate will not be right at the moments, but it is a good indicator how dangerous the virus is. As of today, the mortality rate per 100.000 for the United States went up to 863.8 as calculated by CDC (https://www.cdc.gov/nchs/fastats/deaths.htm). This is a fast increasing rate.
 
-  We also know that each country did lockdown differently. However, based on the calculation, we can get the conclusion that the lockdown on national level, will help to slow down the spread of the virus, also the mortality rates.
+  We also know that each country did lockdown differently, and each countries do have different medical system, so these factors may contribute to the change of the mortality rate in either way. 
 
